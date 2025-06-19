@@ -1,7 +1,7 @@
 # MindMend
 
 🧠 MindMend – Nurturing Mental Wellness Through Technology
-MindMend is a full-stack 💻 mental wellness and teletherapy platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers dedicated dashboards for both users and licensed therapists, with secure authentication via JWT 🔐 and optional Google OAuth 🔗.
+MindMend is a full-stack 💻 mental wellness and teletherapy platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers dedicated dashboards for both users and licensed therapists, with secure authentication via JWT 🔐 and Google OAuth 🔗.
 
 🌟 Key Features:
 🗓️ Online therapy booking with real-time therapist availability
