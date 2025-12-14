@@ -6,7 +6,7 @@ const authRoutes = require("./routes/authRoutes"); // 👈 important
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middlewares
+// Middlewares 
 app.use(cors());
 app.use(express.json());
 
