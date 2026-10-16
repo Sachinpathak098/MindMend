@@ -1,5 +1,5 @@
 const User = require("../models/User"); // ✅ Is line ka hona zaroori hai
-const bcrypt = require("bcryptjs");
+const bcrypt = require("bcryptjs"); 
 const jwt = require("jsonwebtoken");
 
 exports.signup = async (req, res) => {
